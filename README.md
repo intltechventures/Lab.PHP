@@ -14,3 +14,4 @@ Tutorials / Online Books
 
 Articles
 * https://github.com/tpunt/PHP7-Reference
+* http://devzone.zend.com/4693/php-7-glance/
