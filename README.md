@@ -21,7 +21,8 @@ Tutorials / Online Books
 Useful Resources
 * http://www.wampserver.com/
 * http://phpsysinfo.github.io/phpsysinfo/
-
+  * https://github.com/phpsysinfo/phpsysinfo
+  * http://www.raspberry-pi-geek.com/Archive/2013/01/Monitoring-software-for-Raspberry-Pi
 Articles
 * https://www.linux.com/learn/easy-lamp-server-installation
 
