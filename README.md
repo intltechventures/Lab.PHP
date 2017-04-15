@@ -20,7 +20,7 @@ Tutorials / Online Books
 
 Useful Resources
 * http://www.wampserver.com/
-
+* http://phpsysinfo.github.io/phpsysinfo/
 
 Articles
 * https://www.linux.com/learn/easy-lamp-server-installation
