@@ -43,4 +43,3 @@ General
 * http://www.infoq.com/php/
 
 
-* 2015-11-25 [Wordpress replaces PHP with JavaScript](http://www.infoq.com/news/2015/11/wordpress-php-javascript)
