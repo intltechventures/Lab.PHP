@@ -33,7 +33,9 @@
 
 
 
-- Sonar
+- SonarLint
+  + https://www.sonarsource.com/
+  + https://www.sonarsource.com/products/sonarlint/
   + https://www.sonarsource.com/open-source-editions/
   + https://www.sonarsource.com/knowledge/languages/php/
     * Dedicated rules to detect vulnerabilities including ones stemming from OWASP & CWE Top 25 guidelines.
@@ -45,4 +47,10 @@
       * 33 Security Hotspot 
       * 144 Code Smells 
   + IDE Plugins:
-    * [Eclipse](https://marketplace.eclipse.org/content/sonarlint)
+    * Eclipse: 
+      * https://marketplace.eclipse.org/content/sonarlint
+    * Visual Code: 
+      * https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode
+      * https://marketplace.visualstudio.com/items/SonarSource.sonarlint-vscode/changelog
+      * https://github.com/SonarSource/sonarlint-vscode
+
